@@ -5,7 +5,7 @@ class Animal:
         print("This animal is eating ")
     def sleep(self):
         print("This animal is sleeping ")
-
+#pass the ain class name as a parameter to the preceeding
 class Rabbit(Animal):
     pass
 class Fish(Animal):
