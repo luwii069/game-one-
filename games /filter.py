@@ -16,3 +16,15 @@ drinking_friends = list(filter(is_old_enough, friends))
 # Print the list of friends who are old enough to drink
 for friend in drinking_friends:
     print(friend)
+
+    #e= lambda data:data[i]>=18
+#drinking=list(filter(age,friends))
+#for i in drinking:
+ #   return i
+ #additional n shorter
+ #reduce function basically recycles
+
+ #import functools
+ #letters = ["H","E","L","L","O"]
+ #word = functools.reduce(lambda x,y:x+y,letter)
+ #print(word)
